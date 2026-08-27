@@ -23,4 +23,5 @@ from the platform manifest.
 - LineageOS 23.2
 - NervOS 1.0
 
-This organization is private while the initial ROM bring-up is in progress.
+The source repositories remain private while the initial ROM bring-up is in
+progress.
