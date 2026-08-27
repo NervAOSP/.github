@@ -1,4 +1,4 @@
-<img src="NervAOSP.png" alt="NervOS" width="100%" style="border-radius: 18px;">
+<img src="https://raw.githubusercontent.com/NervAOSP/.github/b3db727e54a1c088b655403b5a90a3b76b16578d/profile/NervAOSP.png" alt="NervOS" width="100%">
 
 # NervOS
 
