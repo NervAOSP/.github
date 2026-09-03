@@ -8,4 +8,7 @@ responsive, and reliable experience.
 
 ## Credits
 
-@LineageOS, @Lunaris-AOSP and @AxionAOSP. Thanks to all contributors for their hard work.
+@LineageOS
+@Lunaris-AOSP 
+@AxionAOSP
+Thanks to all contributors for their hard work.
