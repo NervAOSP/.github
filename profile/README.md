@@ -4,3 +4,8 @@
 
 NervOS is a custom Android ROM based on LineageOS, focused on a clean,
 responsive, and reliable experience.
+
+## Credits
+
+NervOS builds on the work of the Android Open Source Project (AOSP),
+LineageOS, and @AxionAOSP. Thanks to all contributors for their hard work.
