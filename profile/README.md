@@ -7,5 +7,4 @@ responsive, and reliable experience.
 
 ## Credits
 
-NervOS builds on the work of the Android Open Source Project (AOSP),
-LineageOS, and @AxionAOSP. Thanks to all contributors for their hard work.
+@LineageOS, @Lunaris-AOSP and @AxionAOSP. Thanks to all contributors for their hard work.
